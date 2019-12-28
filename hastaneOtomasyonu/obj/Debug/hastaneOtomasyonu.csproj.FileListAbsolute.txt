@@ -1,0 +1,385 @@
+C:\Users\harun\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\bin\Debug\hastaneOtomasyonu.exe.config
+C:\Users\harun\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\bin\Debug\hastaneOtomasyonu.exe
+C:\Users\harun\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\bin\Debug\hastaneOtomasyonu.pdb
+C:\Users\harun\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.csprojAssemblyReference.cache
+C:\Users\harun\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.adminGiris.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.adminSayfa.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.anaSayfa.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.doktorGiris.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.doktorGoruntuleGuncelle.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.doktorKayıt.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.doktorSayfa.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hastaBilgiGuncelleme.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hastaBilgiSayfa.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hastaGiris.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hastaKayıt.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hastaSayfa.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.laborantGiris.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.laborantGoruntuleGuncelle.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.laborantKayıt.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.laborantSayfa.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.maliyeGiris.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.maliyeGoruntuleGuncelle.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.maliyeKayıt.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.maliyeSayfa.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.Properties.Resources.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.randevuVerSayfa.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.csproj.GenerateResource.cache
+C:\Users\harun\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\harun\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.exe
+C:\Users\harun\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.pdb
+C:\Users\harun\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.randevuGoruntule.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.csprojAssemblyReference.cache
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.adminGiris.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.adminSayfa.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.anaSayfa.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.doktorGiris.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.doktorSayfa.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hastaBilgiGuncelleme.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hastaGiris.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hastaKayıt.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hastaSayfa.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.laborantGiris.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.laborantSayfa.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.maliyeGiris.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.maliyeSayfa.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.Properties.Resources.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.exe
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.pdb
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\bin\Debug\hastaneOtomasyonu.exe.config
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\bin\Debug\hastaneOtomasyonu.exe
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\bin\Debug\hastaneOtomasyonu.pdb
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hasta_randevuAl.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.doktor_randevuVerSayfa.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hasta_randevu_görüntüle.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_doktorGoruntuleGuncelle.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_doktorKayıt.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_hastaBilgiSayfa.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_laborantGoruntuleGuncelle.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_laborantKayıt.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_maliyeGoruntuleGuncelle.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_maliyeKayıt.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\bin\Debug\hastaneOtomasyonu.exe.config
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\bin\Debug\hastaneOtomasyonu.exe
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\bin\Debug\hastaneOtomasyonu.pdb
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.csprojAssemblyReference.cache
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.adminGiris.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.adminSayfa.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.anaSayfa.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.doktorGiris.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_doktorGoruntuleGuncelle.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_doktorKayıt.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.doktorSayfa.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hastaBilgiGuncelleme.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_hastaBilgiSayfa.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hastaGiris.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hastaKayıt.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hastaSayfa.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.laborantGiris.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_laborantGoruntuleGuncelle.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_laborantKayıt.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.laborantSayfa.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.maliyeGiris.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_maliyeGoruntuleGuncelle.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_maliyeKayıt.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.maliyeSayfa.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.Properties.Resources.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hasta_randevuAl.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.doktor_randevuVerSayfa.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hasta_randevu_görüntüle.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.csproj.CopyComplete
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.exe
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.pdb
+C:\Users\harun\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.csprojAssemblyReference.cache
+C:\Users\harun\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.adminGiris.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.adminSayfa.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.anaSayfa.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.doktorGiris.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_doktorGoruntuleGuncelle.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_doktorKayıt.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.doktorSayfa.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hastaBilgiGuncelleme.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_hastaBilgiSayfa.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hastaGiris.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hastaKayıt.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hastaSayfa.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hasta_raporGor.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.laborantGiris.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_laborantGoruntuleGuncelle.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_laborantKayıt.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.laborantSayfa.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.maliyeGiris.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_maliyeGoruntuleGuncelle.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_maliyeKayıt.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.maliyeSayfa.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hasta_randevuAl.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.doktor_randevuVerSayfa.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hasta_randevu_görüntüle.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.csproj.GenerateResource.cache
+C:\Users\harun\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.exe
+C:\Users\harun\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.pdb
+C:\Users\harun\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\bin\Debug\hastaneOtomasyonu.exe.config
+C:\Users\harun\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\bin\Debug\hastaneOtomasyonu.exe
+C:\Users\harun\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\bin\Debug\hastaneOtomasyonu.pdb
+C:\Users\harun\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\harun\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.Properties.Resources.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\harun\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.csproj.CopyComplete
+C:\Users\harun\Desktop\hastaneOtomasyonu deneme\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.doktor_hastaTeshis.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharun\hastaneOtomasyonu\bin\Debug\hastaneOtomasyonu.exe.config
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharun\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.exe
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharun\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.pdb
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharun\hastaneOtomasyonu\bin\Debug\hastaneOtomasyonu.exe
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharun\hastaneOtomasyonu\bin\Debug\hastaneOtomasyonu.pdb
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharun\hastaneOtomasyonu\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharun\hastaneOtomasyonu\bin\Debug\mscorlib.dll
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharun\hastaneOtomasyonu\bin\Debug\System.Net.Http.dll
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharun\hastaneOtomasyonu\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharun\hastaneOtomasyonu\bin\Debug\System.Net.Http.xml
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharun\hastaneOtomasyonu\bin\Debug\ar\mscorlib.resources.dll
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharun\hastaneOtomasyonu\bin\Debug\es\mscorlib.resources.dll
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharun\hastaneOtomasyonu\bin\Debug\fr\mscorlib.resources.dll
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharun\hastaneOtomasyonu\bin\Debug\pt-BR\mscorlib.resources.dll
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharun\hastaneOtomasyonu\bin\Debug\pt-PT\mscorlib.resources.dll
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharun\hastaneOtomasyonu\bin\Debug\tr\mscorlib.resources.dll
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharun\hastaneOtomasyonu\bin\Debug\normidna.nlp
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharun\hastaneOtomasyonu\bin\Debug\normnfc.nlp
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharun\hastaneOtomasyonu\bin\Debug\normnfd.nlp
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharun\hastaneOtomasyonu\bin\Debug\normnfkc.nlp
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharun\hastaneOtomasyonu\bin\Debug\normnfkd.nlp
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharun\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.adminGiris.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharun\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.adminSayfa.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharun\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.anaSayfa.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharun\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.doktorGiris.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharun\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_doktorGoruntuleGuncelle.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharun\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_doktorKayıt.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharun\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.doktorSayfa.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharun\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hastaBilgiGuncelleme.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharun\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_hastaBilgiSayfa.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharun\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hastaGiris.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharun\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hastaKayıt.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharun\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hastaSayfa.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharun\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.doktor_hastaTeshis.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharun\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hasta_raporGor.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharun\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.laborantGiris.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharun\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_laborantGoruntuleGuncelle.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharun\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_laborantKayıt.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharun\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.laborantSayfa.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharun\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.maliyeGiris.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharun\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_maliyeGoruntuleGuncelle.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharun\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_maliyeKayıt.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharun\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.maliyeSayfa.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharun\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.Properties.Resources.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharun\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hasta_randevuAl.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharun\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.doktor_randevuVerSayfa.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharun\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hasta_randevu_görüntüle.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharun\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\bin\Debug\hastaneOtomasyonu.exe.config
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.exe
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.pdb
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\bin\Debug\hastaneOtomasyonu.exe
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\bin\Debug\hastaneOtomasyonu.pdb
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\bin\Debug\mscorlib.dll
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\bin\Debug\System.Net.Http.dll
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\bin\Debug\System.Net.Http.xml
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\bin\Debug\ar\mscorlib.resources.dll
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\bin\Debug\es\mscorlib.resources.dll
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\bin\Debug\fr\mscorlib.resources.dll
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\bin\Debug\pt-BR\mscorlib.resources.dll
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\bin\Debug\pt-PT\mscorlib.resources.dll
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\bin\Debug\tr\mscorlib.resources.dll
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\bin\Debug\normidna.nlp
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\bin\Debug\normnfc.nlp
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\bin\Debug\normnfd.nlp
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\bin\Debug\normnfkc.nlp
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\bin\Debug\normnfkd.nlp
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.adminGiris.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.adminSayfa.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.anaSayfa.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.doktorGiris.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_doktorGoruntuleGuncelle.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_doktorKayıt.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.doktorSayfa.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hastaBilgiGuncelleme.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_hastaBilgiSayfa.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hastaGiris.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hastaKayıt.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hastaSayfa.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.doktor_hastaTeshis.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hasta_raporGor.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.laborantGiris.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_laborantGoruntuleGuncelle.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_laborantKayıt.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.laborantSayfa.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.maliyeGiris.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_maliyeGoruntuleGuncelle.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_maliyeKayıt.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.maliyeSayfa.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.Properties.Resources.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hasta_randevuAl.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.doktor_randevuVerSayfa.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hasta_randevu_görüntüle.resources
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.doktorHastalarımınTeshisleri.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\bin\Debug\hastaneOtomasyonu.exe.config
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\bin\Debug\hastaneOtomasyonu.exe
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\bin\Debug\hastaneOtomasyonu.pdb
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.csprojAssemblyReference.cache
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.adminGiris.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.adminSayfa.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.anaSayfa.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.doktorGiris.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_doktorGoruntuleGuncelle.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_doktorKayıt.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.doktorHastalarımınTeshisleri.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.doktorSayfa.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hastaBilgiGuncelleme.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_hastaBilgiSayfa.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hastaGiris.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hastaKayıt.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hastaSayfa.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.doktor_hastaTeshis.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hasta_raporGor.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.laborantGiris.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_laborantGoruntuleGuncelle.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_laborantKayıt.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.laborantSayfa.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.maliyeGiris.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_maliyeGoruntuleGuncelle.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_maliyeKayıt.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.maliyeSayfa.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.Properties.Resources.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hasta_randevuAl.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.doktor_randevuVerSayfa.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hasta_randevu_görüntüle.resources
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.csproj.CopyComplete
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.exe
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.pdb
+C:\Users\Ahmet\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.doktor_randevudüzenle.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\bin\Debug\hastaneOtomasyonu.exe.config
+C:\Users\harun\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\bin\Debug\hastaneOtomasyonu.exe
+C:\Users\harun\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\bin\Debug\hastaneOtomasyonu.pdb
+C:\Users\harun\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\harun\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.csprojAssemblyReference.cache
+C:\Users\harun\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.adminGiris.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.adminSayfa.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.anaSayfa.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.doktorGiris.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_doktorGoruntuleGuncelle.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_doktorKayıt.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.doktorHastalarımınTeshisleri.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.doktorSayfa.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.doktor_randevudüzenle.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hastaBilgiGuncelleme.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_hastaBilgiSayfa.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hastaGiris.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hastaKayıt.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hastaSayfa.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.doktor_hastaTeshis.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hasta_raporGor.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.laborantGiris.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_laborantGoruntuleGuncelle.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_laborantKayıt.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.laborantSayfa.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.maliyeGiris.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_maliyeGoruntuleGuncelle.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_maliyeKayıt.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.maliyeSayfa.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.Properties.Resources.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hasta_randevuAl.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.doktor_randevuVerSayfa.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hasta_randevu_görüntüle.resources
+C:\Users\harun\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.csproj.GenerateResource.cache
+C:\Users\harun\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\harun\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.csproj.CopyComplete
+C:\Users\harun\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.exe
+C:\Users\harun\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.pdb
+C:\Users\Computer\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\bin\Debug\hastaneOtomasyonu.exe.config
+C:\Users\Computer\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\bin\Debug\hastaneOtomasyonu.exe
+C:\Users\Computer\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\bin\Debug\hastaneOtomasyonu.pdb
+C:\Users\Computer\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Computer\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.csprojAssemblyReference.cache
+C:\Users\Computer\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.adminGiris.resources
+C:\Users\Computer\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.adminSayfa.resources
+C:\Users\Computer\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.anaSayfa.resources
+C:\Users\Computer\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.doktorGiris.resources
+C:\Users\Computer\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_doktorGoruntuleGuncelle.resources
+C:\Users\Computer\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_doktorKayıt.resources
+C:\Users\Computer\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.doktorHastalarımınTeshisleri.resources
+C:\Users\Computer\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.doktorSayfa.resources
+C:\Users\Computer\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.doktor_hastaTeshis.resources
+C:\Users\Computer\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.doktor_randevudüzenle.resources
+C:\Users\Computer\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hastaBilgiGuncelleme.resources
+C:\Users\Computer\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_hastaBilgiSayfa.resources
+C:\Users\Computer\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hastaGiris.resources
+C:\Users\Computer\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hastaKayıt.resources
+C:\Users\Computer\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hastaSayfa.resources
+C:\Users\Computer\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hasta_raporGor.resources
+C:\Users\Computer\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.laborantGiris.resources
+C:\Users\Computer\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_laborantGoruntuleGuncelle.resources
+C:\Users\Computer\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_laborantKayıt.resources
+C:\Users\Computer\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.laborantSayfa.resources
+C:\Users\Computer\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.maliyeGiris.resources
+C:\Users\Computer\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_maliyeGoruntuleGuncelle.resources
+C:\Users\Computer\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_maliyeKayıt.resources
+C:\Users\Computer\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.maliyeSayfa.resources
+C:\Users\Computer\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.Properties.Resources.resources
+C:\Users\Computer\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hasta_randevuAl.resources
+C:\Users\Computer\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.doktor_randevuVerSayfa.resources
+C:\Users\Computer\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hasta_randevu_görüntüle.resources
+C:\Users\Computer\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Computer\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.csproj.CopyComplete
+C:\Users\Computer\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.exe
+C:\Users\Computer\Desktop\hastaneOtomasyonu denemeharungörsellik\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.pdb
+C:\Users\Computer\Desktop\2018-2019 Bahar(2.donem)\projeler c#\hastaneOtomasyonuSonHali\hastaneOtomasyonu\bin\Debug\hastaneOtomasyonu.exe.config
+C:\Users\Computer\Desktop\2018-2019 Bahar(2.donem)\projeler c#\hastaneOtomasyonuSonHali\hastaneOtomasyonu\bin\Debug\hastaneOtomasyonu.exe
+C:\Users\Computer\Desktop\2018-2019 Bahar(2.donem)\projeler c#\hastaneOtomasyonuSonHali\hastaneOtomasyonu\bin\Debug\hastaneOtomasyonu.pdb
+C:\Users\Computer\Desktop\2018-2019 Bahar(2.donem)\projeler c#\hastaneOtomasyonuSonHali\hastaneOtomasyonu\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Computer\Desktop\2018-2019 Bahar(2.donem)\projeler c#\hastaneOtomasyonuSonHali\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.csprojAssemblyReference.cache
+C:\Users\Computer\Desktop\2018-2019 Bahar(2.donem)\projeler c#\hastaneOtomasyonuSonHali\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.adminGiris.resources
+C:\Users\Computer\Desktop\2018-2019 Bahar(2.donem)\projeler c#\hastaneOtomasyonuSonHali\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.adminSayfa.resources
+C:\Users\Computer\Desktop\2018-2019 Bahar(2.donem)\projeler c#\hastaneOtomasyonuSonHali\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.anaSayfa.resources
+C:\Users\Computer\Desktop\2018-2019 Bahar(2.donem)\projeler c#\hastaneOtomasyonuSonHali\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.doktorGiris.resources
+C:\Users\Computer\Desktop\2018-2019 Bahar(2.donem)\projeler c#\hastaneOtomasyonuSonHali\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_doktorGoruntuleGuncelle.resources
+C:\Users\Computer\Desktop\2018-2019 Bahar(2.donem)\projeler c#\hastaneOtomasyonuSonHali\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_doktorKayıt.resources
+C:\Users\Computer\Desktop\2018-2019 Bahar(2.donem)\projeler c#\hastaneOtomasyonuSonHali\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.doktorHastalarımınTeshisleri.resources
+C:\Users\Computer\Desktop\2018-2019 Bahar(2.donem)\projeler c#\hastaneOtomasyonuSonHali\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.doktorSayfa.resources
+C:\Users\Computer\Desktop\2018-2019 Bahar(2.donem)\projeler c#\hastaneOtomasyonuSonHali\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.doktor_hastaTeshis.resources
+C:\Users\Computer\Desktop\2018-2019 Bahar(2.donem)\projeler c#\hastaneOtomasyonuSonHali\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.doktor_randevudüzenle.resources
+C:\Users\Computer\Desktop\2018-2019 Bahar(2.donem)\projeler c#\hastaneOtomasyonuSonHali\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hastaBilgiGuncelleme.resources
+C:\Users\Computer\Desktop\2018-2019 Bahar(2.donem)\projeler c#\hastaneOtomasyonuSonHali\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_hastaBilgiSayfa.resources
+C:\Users\Computer\Desktop\2018-2019 Bahar(2.donem)\projeler c#\hastaneOtomasyonuSonHali\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hastaGiris.resources
+C:\Users\Computer\Desktop\2018-2019 Bahar(2.donem)\projeler c#\hastaneOtomasyonuSonHali\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hastaKayıt.resources
+C:\Users\Computer\Desktop\2018-2019 Bahar(2.donem)\projeler c#\hastaneOtomasyonuSonHali\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hastaSayfa.resources
+C:\Users\Computer\Desktop\2018-2019 Bahar(2.donem)\projeler c#\hastaneOtomasyonuSonHali\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hasta_raporGor.resources
+C:\Users\Computer\Desktop\2018-2019 Bahar(2.donem)\projeler c#\hastaneOtomasyonuSonHali\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.laborantGiris.resources
+C:\Users\Computer\Desktop\2018-2019 Bahar(2.donem)\projeler c#\hastaneOtomasyonuSonHali\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_laborantGoruntuleGuncelle.resources
+C:\Users\Computer\Desktop\2018-2019 Bahar(2.donem)\projeler c#\hastaneOtomasyonuSonHali\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_laborantKayıt.resources
+C:\Users\Computer\Desktop\2018-2019 Bahar(2.donem)\projeler c#\hastaneOtomasyonuSonHali\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.laborantSayfa.resources
+C:\Users\Computer\Desktop\2018-2019 Bahar(2.donem)\projeler c#\hastaneOtomasyonuSonHali\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.maliyeGiris.resources
+C:\Users\Computer\Desktop\2018-2019 Bahar(2.donem)\projeler c#\hastaneOtomasyonuSonHali\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_maliyeGoruntuleGuncelle.resources
+C:\Users\Computer\Desktop\2018-2019 Bahar(2.donem)\projeler c#\hastaneOtomasyonuSonHali\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.admin_maliyeKayıt.resources
+C:\Users\Computer\Desktop\2018-2019 Bahar(2.donem)\projeler c#\hastaneOtomasyonuSonHali\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.maliyeSayfa.resources
+C:\Users\Computer\Desktop\2018-2019 Bahar(2.donem)\projeler c#\hastaneOtomasyonuSonHali\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.Properties.Resources.resources
+C:\Users\Computer\Desktop\2018-2019 Bahar(2.donem)\projeler c#\hastaneOtomasyonuSonHali\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hasta_randevuAl.resources
+C:\Users\Computer\Desktop\2018-2019 Bahar(2.donem)\projeler c#\hastaneOtomasyonuSonHali\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.doktor_randevuVerSayfa.resources
+C:\Users\Computer\Desktop\2018-2019 Bahar(2.donem)\projeler c#\hastaneOtomasyonuSonHali\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.hasta_randevu_görüntüle.resources
+C:\Users\Computer\Desktop\2018-2019 Bahar(2.donem)\projeler c#\hastaneOtomasyonuSonHali\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Computer\Desktop\2018-2019 Bahar(2.donem)\projeler c#\hastaneOtomasyonuSonHali\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Desktop\2018-2019 Bahar(2.donem)\projeler c#\hastaneOtomasyonuSonHali\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.csproj.CopyComplete
+C:\Users\Computer\Desktop\2018-2019 Bahar(2.donem)\projeler c#\hastaneOtomasyonuSonHali\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.exe
+C:\Users\Computer\Desktop\2018-2019 Bahar(2.donem)\projeler c#\hastaneOtomasyonuSonHali\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.pdb
